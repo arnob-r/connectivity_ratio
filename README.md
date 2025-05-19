@@ -1,1 +1,1 @@
-# connectivity_ratio
+This repository contains code for calculating key network metrics at global scale and regional scale, including degree, long-range and short-range connections, link density histograms, and connectivity ratios, providing a comprehensive analysis of network structure. 
