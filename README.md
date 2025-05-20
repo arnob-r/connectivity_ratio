@@ -1,1 +1,1 @@
-This repository contains code for calculating key network metrics at global scale and regional scale, including degree, long-range and short-range connections, link density histograms, and connectivity ratios, providing a comprehensive analysis of network structure. 
+This repository contains codes for calculating the climate network at the global scale, including degree, long-range, and short-range connections, link density histograms, and partial degree. The connectivity ratio is calculated for the global and regional scales. 
