@@ -1,1 +1,1 @@
-This repository contains codes for calculating the climate network at the global scale, including degree, long-range, and short-range connections, link density histograms, and partial degree. The connectivity ratio is calculated for the global and regional scales. 
+This repository provides code for constructing the climate network at the global scale. It includes computations of degree, short-range and long-range connections, link density histograms, and partial degree. Additionally, it offers functionality to calculate connectivity ratios at both global and regional levels.
